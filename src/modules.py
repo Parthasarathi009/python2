@@ -2,8 +2,10 @@
 # and use it
 from my_classes import MyAge
 
-my_age = MyAge("1985-01-01", "Mr James")
-my_age.show_me_my_age()
+guddu = MyAge("1985-01-01", "Shri Guddu")
+guddu.show_me_my_age()
+print(guddu._MyAge__my_name)
+print( f"{guddu.show_me_my_age()}")
 # > 'Mr James, you are so young, only 41 years old!'
 
 # additional learexample with the import as command

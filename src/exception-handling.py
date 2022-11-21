@@ -1,6 +1,6 @@
 import pandas as pd
 # load a csv file
-e_commerce_data_path_csv = "./data/data.csv"
+e_commerce_data_path_csv = "C:/Users/parth/OneDrive/Documents/GitHub/TheDataengineringAcademy/PythonofDataEngieer/python2/data/data.csv"
 e_commerce_data_fake_path_csv = "./data/fake_data.csv"
 
 # try - except example, raise a BaseException
